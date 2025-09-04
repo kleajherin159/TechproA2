@@ -1,7 +1,15 @@
 public class Main {
+        public static void main(String[] args) {
+                int countdown = 3;
+                        System.out.println("Seatworkfive");
 
-    Seatworknosix
+                                while (countdown > 0) {
+                                            System.out.println(countdown);
+                                                        countdown--;
+                                                                }
 
-    public static void main(String[] args) { داد System.out.println("Seatworknosix"); String[] cars = {"Volvo", "BMW", "Ford", "Mazda", "Rusi", "Honda", "KIA"}; System.out.println(cars.length); } }
-    }
+                                                                        System.out.println("Happy Birthday!!");
+                                                                            }
+                                                                            }
+                                                                            
 }
